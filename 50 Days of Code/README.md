@@ -1,0 +1,1 @@
+This project will include 50 new web pages being created using HTML, CSS and JavaScript.
